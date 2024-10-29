@@ -106,7 +106,7 @@ const ChatWindow = () => {
   return (
     <div className="flex flex-col h-screen w-full bg-gray-900 overflow-hidden font-mono">
       <div className="bg-gray-800 p-4 text-green-400 font-bold text-lg">
-        &lt;Chat🤖Bot/&gt;
+        &lt;limitless🤖Bot/&gt;
       </div>
       <div className="flex-1 overflow-y-auto p-4 space-y-4">
         {messages.map((message) => (
